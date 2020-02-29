@@ -4,3 +4,4 @@
 * API exercise - api_data_wrangling_mini_project.ipynb
 * Statistical Frequentist Test exercise - inferential statistics
 * Bootstrap exercise - inferential_statistics_bootstrap.ipynb
+* Bayesian Inference exercise - inferential_statistics_3-Q.ipynb
