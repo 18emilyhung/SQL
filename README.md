@@ -5,3 +5,4 @@
 * Statistical Frequentist Test exercise - inferential statistics
 * Bootstrap exercise - inferential_statistics_bootstrap.ipynb
 * Bayesian Inference exercise - inferential_statistics_3-Q.ipynb
+* Linear Regression exercise - Mini_Project_Linear_Regression.ipynb
