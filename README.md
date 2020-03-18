@@ -6,3 +6,4 @@
 * Bootstrap exercise - inferential_statistics_bootstrap.ipynb
 * Bayesian Inference exercise - inferential_statistics_3-Q.ipynb
 * Linear Regression exercise - Mini_Project_Linear_Regression.ipynb
+* Logistic Regression exercise - Mini_Project_Logistic_Regression.ipynb
