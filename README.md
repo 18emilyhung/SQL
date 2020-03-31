@@ -8,3 +8,4 @@
 * Linear Regression exercise - Mini_Project_Linear_Regression.ipynb
 * Logistic Regression exercise - Mini_Project_Logistic_Regression.ipynb
 * Naive Bayes exercise - Mini_Project_Naive_Bayes.ipynb
+* Clustering exercise - Mini_Project_Clustering.ipynb
